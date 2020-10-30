@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_event"
+        android:icon="@drawable/ic_outline_event_24"
+        android:title="@string/events"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+</menu>

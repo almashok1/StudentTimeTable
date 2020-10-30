@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Student TimeTable</string>
+    <string name="add_schedule">Add schedule</string>
+    <string name="events">Events</string>
+    <string name="switchTheme">Switch</string>
+    <string name="to_day_view">To day view</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="number_of_weeks">Number Of Weeks</string>
+    <string name="show_teachers">Show Teachers</string>
+    <string name="show_teacher">Show Teacher</string>
+</resources>
